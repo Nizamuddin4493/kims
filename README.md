@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Kims
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+> This Kims is an educational website.
 ## Available Scripts
 
 In the project directory, you can run:
