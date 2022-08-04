@@ -38,11 +38,12 @@ $ npm test
 - Twitter: [@Nizamudin4493](https://twitter.com/Nizamuddin4493)
 - LinkedIn: [nizamuddin4493](https://linkedin.com/in/nizamuddin4493)
 
-## Learn More
+## 🤝 Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions, issues, and feature requests are welcome!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to check the [issues page](../../issues/).
+
 
 ### Code Splitting
 
