@@ -3,3 +3,8 @@
   paddin: 0;
   box-sizing: border-box;
 }
+
+div {
+  width : 500px;
+  height: 500px;
+}
