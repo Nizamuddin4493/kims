@@ -17,3 +17,10 @@ body {
 #visitCard {
   box-shadow: 5px 10px #888888;
 }
+
+div1 {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
