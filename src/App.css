@@ -16,6 +16,8 @@ body {
 
 #visitCard {
   box-shadow: 5px 10px #888888;
+  width: 180px;
+  height: 300px;
 }
 
 div1 {
