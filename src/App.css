@@ -26,3 +26,9 @@ div1 {
   padding: 50px;
   margin: 20px;
 }
+
+.btn {
+  with: 80px;
+  height: 35px;
+  color: blue;
+}
